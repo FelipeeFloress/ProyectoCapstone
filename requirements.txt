@@ -1,0 +1,6 @@
+# requirements.txt (versión corregida)
+torch
+gradio
+moviepy
+openai-whisper
+numpy
